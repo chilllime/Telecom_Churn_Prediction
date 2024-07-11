@@ -18,36 +18,49 @@ Number of rows and columns in the dataset.
 
 Data Preprocessing:
 
-Handling Missing Values: Describe how missing values were handled (e.g., imputation, deletion).
-Outlier Detection: Describe outlier detection and treatment methods (e.g., z-score, IQR).
-Feature Encoding: Explain how categorical features were encoded (e.g., one-hot encoding, label encoding).
-Feature Scaling: Describe the scaling technique used (e.g., Min-Max scaling, Standard scaling).
+Handling Missing Values:
+
+Describe how missing values were handled (e.g., imputation, deletion).
+
+Outlier Detection:
+
+Describe outlier detection and treatment methods (e.g., z-score, IQR).
+
+Feature Encoding:
+
+Explain how categorical features were encoded (e.g., one-hot encoding, label encoding).
+
+Feature Scaling:
+
+Describe the scaling technique used (e.g., Min-Max scaling, Standard scaling).
+
 Exploratory Data Analysis (EDA)
 
 Summary:
 
 Key insights gained from EDA, including relationships between features and the target variable, distribution of data, and potential correlations.
 
-Model
+Model:
 
-Algorithm: Artificial Neural Network (ANN) architecture (e.g., number of layers, neurons per layer, activation functions).
-Training: Describe the training process, including hyperparameter tuning, optimization algorithm, and batch size.
-Evaluation: Metrics used to evaluate model performance (e.g., Accuracy, Precision, Recall, F1-score, ROC AUC).
+Algorithm: 
 
-Code Structure
+Artificial Neural Network (ANN) architecture (e.g., number of layers, neurons per layer, activation functions).
 
-Data Preprocessing: Description of code files related to data cleaning, transformation, and feature engineering.
-EDA: Description of code files for exploratory data analysis.
-Model Development: Description of code files for ANN architecture, training, and evaluation.
-Dependencies
+Training: 
+
+Describe the training process, including hyperparameter tuning, optimization algorithm, and batch size.
+
+Evaluation:
+
+Metrics used to evaluate model performance (e.g., Accuracy, Precision, Recall, F1-score, ROC AUC).
 
 List of required Python libraries and their versions (e.g., pandas, numpy, scikit-learn, tensorflow/keras, matplotlib).
 
-Future Work
+Future Work:
 
 Potential improvements or extensions to the project (e.g., hyperparameter tuning, different ANN architectures, ensemble methods, feature importance analysis).
 
 
-Acknowledgements
+Acknowledgements:
 
 Credit to the dataset creators and any external resources used.
